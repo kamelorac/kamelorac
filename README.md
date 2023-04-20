@@ -70,19 +70,13 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></td>
   </tr>
 </table>
-<br />
-💻 GitHub Stats
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kamelorac&show_icons=true&hide_border=true" /> 
-    </td>
-    <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelorac&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-    </td>
-  </tr>
-</table>
-<div align="center" width="100%">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kamelorac&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
-</div>
+
+##
+
+💻 **GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=kamelorac&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamelorac&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamelorac&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
