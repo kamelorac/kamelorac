@@ -4,7 +4,7 @@
 </p>
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg4MDdlN2Q0NGFmNDMxZDFiZThiY2ZmYmI4NmFlNDVlMjZkZmQ0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p>
-  As an experienced senior fullstack developer, I have a track record of delivering high-quality web applications utilizing my expertise in front-end and back-end development. I bring a deep understanding of various programming languages and frameworks such as JavaScript, React, Node.js, Python, and Django, to name a few.
+  As an experienced <a href="https://kamelorac-16b1a.web.app/">senior fullstack developer</a>, I have a track record of delivering high-quality web applications utilizing my expertise in front-end and back-end development. I bring a deep understanding of various programming languages and frameworks such as JavaScript, React, Node.js, Python, and Django, to name a few.
 </p>
 <p>
   In my previous roles, I have successfully led development projects and collaborated with teams to implement new ideas and technologies. My attention to detail and focus on user experience allows me to produce code that is efficient, scalable, and user-friendly. I am comfortable working in agile environments, and my ability to manage multiple projects concurrently has proven critical in delivering projects on time.
